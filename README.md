@@ -44,4 +44,4 @@
 
   Scenario: You have a string variable sentence and a substring variable word. If the sentence contains the substring, print "Substring found". Otherwise, print "Substring not found".
 
-**Note: You have to create a JS file and code the answers of the questions mentioned above.**
+**Note: You have to create and add a JS file and code the answers of the questions mentioned above in it.**
